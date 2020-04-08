@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Chunhui Yang 
+
+~~~
+{}{img_left}{ych.jpg}{alt text}{240}{160}
+PhD ,\n Imaging science, \n Washington University in St. Louis \n
+School of Medicine \n
+East McDonnell Medical Sciences, 204 \n
+St. Louis, MO 63110 \n
+Phone: \+1 314 556 4571 \n
+Email: /chunhuiyang/ \[@\] wustl \[DOT\] edu
+~~~
+
+\n
+[ChunhuiYang_cv.pdf A brief cv].
+
+== About me
+Driven by interests.
+
+== Education
+- Ph.D., Imaging Science, Washington University in St. Louis, Aug.2018 - Now
+- M.S., Computer Science, Georgia Institute of Technology, Jan.2019 - Now (OMSCS program, expected graduate time June.2021)
+- B.Eng., Aeronautical and Astronautical Engineering, Tsinghua University, Aug.2014 - Jun.2018
+- B.A., Digital Media Arts (Double Degree), Tsinghua University, Aug.2015 - Jun.2018
+
+== Work Experience
+- Graduate research assistant in Van Essen's lab, supervised by Dr. David Van Essen & Dr. Matthew Glasser, Aug.2018 - Now
+- Machine learning engineer intern in DeepKe Tech, supervised by Dr. Xing Jin, Sep.2017 - Jun.2018
+- Undergraduate research Assistant (Summer Intern) in Martinos Center, supervised by Dr. Hesheng Liu, July - Sep.2017
+- Undergraduate research Assistant in National Engineering Lab of Neural Control Technology, supervised by Dr. Luming Li.
+
+== Research
+My research interests include 
+- Machine Learning in medical imaging 
+- Statistical methods in fMRI
+
+== License
+Copyright \C 2020 Chunhui Yang. 
+This is a website created by jemdoc.
